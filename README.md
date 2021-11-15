@@ -11,7 +11,7 @@ This repositary contains various frontend projects and components.
 
 # Screenshot 
 
-### 1 . 
+### 1 . Card with Glowing Border
 
 <p align="center">
     <a href="https://github.com/neha030"><img src="https://github.com/neha030/Frontend-Projects/blob/main/Screenshots/Card%20with%20Glowing%20Border.png" /></a>
