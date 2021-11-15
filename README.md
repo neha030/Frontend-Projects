@@ -11,9 +11,9 @@ This repositary contains various frontend projects and components.
 
 # Screenshot 
 
-### 1 . Drawing App
+### 1 . 
 
 <p align="center">
-    <a href="https://github.com/neha030"><img src="" /></a>
+    <a href="https://github.com/neha030"><img src="https://github.com/neha030/Frontend-Projects/blob/main/Screenshots/Card%20with%20Glowing%20Border.png" /></a>
 </p>
 
