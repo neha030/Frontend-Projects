@@ -63,6 +63,6 @@ This repositary contains various frontend projects and components.
 ### 6. Social Media Effects 
 
 <p align="center">
-    <a href="https://github.com/neha030"><img src="" /></a>
+    <a href="https://github.com/neha030"><img src="https://github.com/neha030/Frontend-Projects/blob/main/Screenshots/Social%20Media%20Effects.png" /></a>
 </p>
 
