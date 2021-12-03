@@ -46,21 +46,21 @@ This repositary contains various frontend projects and components.
 </p>
 
 
-### 5 .  PreLoad Animation
+### 6 .  PreLoad Animation
 
 <p align="center">
     <a href="https://github.com/neha030"><img src="https://github.com/neha030/Frontend-Projects/blob/main/Screenshots/PreLoad%20Animation.png" /></a>
 </p>
 
 
-### 6. Water Drop Effect 
+### 7. Water Drop Effect 
 
 <p align="center">
     <a href="https://github.com/neha030"><img src="https://github.com/neha030/Frontend-Projects/blob/main/Screenshots/Water%20drop%20effect.png" /></a>
 </p>
 
 
-### 6. Social Media Effects 
+### 8. Social Media Effects 
 
 <p align="center">
     <a href="https://github.com/neha030"><img src="https://github.com/neha030/Frontend-Projects/blob/main/Screenshots/Social%20Media%20Effects.png" /></a>
