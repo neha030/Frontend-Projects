@@ -66,3 +66,11 @@ This repositary contains various frontend projects and components.
     <a href="https://github.com/neha030"><img src="https://github.com/neha030/Frontend-Projects/blob/main/Screenshots/Social%20Media%20Effects.png" /></a>
 </p>
 
+
+
+### 9.  Custom Select Component
+
+<p align="center">
+    <a href="https://github.com/neha030"><img src="https://github.com/neha030/Frontend-Projects/blob/main/Screenshots/Custom%20Select%20Component.png" /></a>
+</p>
+
