@@ -13,7 +13,7 @@ inputField.addEventListener("keyup",e=>{
 
 function requestApi(city)
 {
-    let api =`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=6f18de09e2d0f96a3b185d608477eee0`;
+    let api =`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apikey}`;
     infoTxt.innerText = "Getting weather details...";
     infoTxt.classList.add("pending");
     fetch(api).then(response => response.json()).then(result => weatherDetails(result));
