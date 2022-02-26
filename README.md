@@ -77,3 +77,7 @@ This repositary contains various frontend projects and components.
 
 ### 10.  Quiz App
 
+<p align="center">
+    <a href="https://github.com/neha030"><img src="https://github.com/neha030/Frontend-Projects/blob/main/Screenshots/Quiz%20App.png" /></a>
+</p>
+
