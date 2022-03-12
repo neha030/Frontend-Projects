@@ -89,3 +89,11 @@ This repositary contains various frontend projects and components.
 </p>
 
 
+### 12.  Battery Indicator
+
+<p align="center">
+    <a href="https://github.com/neha030"><img src="https://github.com/neha030/Frontend-Projects/blob/main/Screenshots/Battery%20Indicator.png" /></a>
+</p>
+
+
+
