@@ -96,4 +96,6 @@ This repositary contains various frontend projects and components.
 </p>
 
 
+### 13.  Image Slider 
+
 
