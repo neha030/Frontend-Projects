@@ -96,4 +96,9 @@ This repositary contains various frontend projects and components.
 </p>
 
 
+### 13.  Image Slider 
+
+<p align="center">
+    <a href="https://github.com/neha030"><img src="https://github.com/neha030/Frontend-Projects/blob/main/Screenshots/Image%20Slider.png" /></a>
+</p>
 
