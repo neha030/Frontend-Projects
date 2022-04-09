@@ -111,7 +111,7 @@ This repositary contains various frontend projects and components.
 </p>
 
 
-### 14.  Notes Keeping App 
+### 14.  Weather App 
 
 
 <p align="center">
