@@ -119,4 +119,3 @@ This repositary contains various frontend projects and components.
 </p>
 
 
-### 15.  Weather App 
